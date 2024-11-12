@@ -1,0 +1,7 @@
+{
+  "name": "vite-capacitor-templet",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}
